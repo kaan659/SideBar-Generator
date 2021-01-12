@@ -1,3 +1,3 @@
 # SideBar-Generator
 Random Sidebar Generator for Website
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/kaan659/SideBar-Generator/blob/main/sidebargenerator.png)
